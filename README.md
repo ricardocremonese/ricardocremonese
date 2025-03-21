@@ -42,15 +42,15 @@
   
 </div>
 
-Feito com ❤️ e </codigos> =)
 
  <div align="center">
 <br><p align="centre"><b>Visitantes</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{alanagabriele}/count.svg" /></p> 
 <br>
+    Feito com ❤️ e </codig0s> =)
 </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00000F&height=120&section=footer"/>
 
-Feito com ❤️ e </codigos> =)
+
 
 </div>
