@@ -8,7 +8,7 @@
 💪🏻6 anos atuando com automação de processos para emrpesas. <br>
 🚀Sempre em busca de aprendizado e aperfeiçoamento profissional e pessoal!
 
-#####  Trabalhando atualmente com:
+#####  Tatualmente Estudando:
 
 <div>
    <img src="(https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
@@ -51,9 +51,4 @@
 </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00000F&height=120&section=footer"/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
-</div>
+
